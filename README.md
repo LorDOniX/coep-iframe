@@ -8,6 +8,8 @@
 
 ## Run
 - npm start
+- server starts on port 8111
+- http://localhost:8111
 
 # Error
 
